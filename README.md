@@ -8,10 +8,9 @@ jeg har vært obsesesed med en karkater de siste ukene, og siden jeg ikke har en
 - hampter desktop pet ???
 
 - hampter tamagotchi !! 
-
+- hampter sorting, svar på sprøsmål og få en hampter til din personlighet !!
 
 
 ## første proskjekt 
-okay, det første proskjektet 
 
 
