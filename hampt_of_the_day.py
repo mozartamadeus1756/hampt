@@ -23,16 +23,14 @@ def openImage():
     label.config(image=photo)
     label.image = photo
 
-# def refresh_window():
-#     window.update()
-
 button = tk.Button(window, text="randomiser!!", command=openImage)
 button.pack()
 
 window.mainloop()
 
 
-
+# def refresh_window():
+#     window.update()
 
 
  
