@@ -1,4 +1,4 @@
-# juan-off-the-day
+# hampt
 jeg har vært obsesesed med en karkater de siste ukene, og siden jeg ikke har en så annen god ide så skal ejg lage noen spill eller små python proskjeter som innehodler denne karakteren
 
 ## proskjekt jeg kan lage !!
@@ -12,5 +12,6 @@ jeg har vært obsesesed med en karkater de siste ukene, og siden jeg ikke har en
 
 
 ## første proskjekt 
+
 
 
